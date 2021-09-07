@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Admin:Admin@devconnector.qrudg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Admin:Admin@devconnector.qrudg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken"
 }
